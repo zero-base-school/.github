@@ -14,11 +14,11 @@
     1. 제로베이스 수강생들 끼리 정보 교류
     2. 사이드 프로젝트 및 오픈 소스 활동
 
-# [공지사항](https://github.com/zero-base-school/.github/discussions/2)
+# [가입 신청](https://github.com/zero-base-school/.github/discussions/2)
 
 > ## 참여 방법 
   
-    ✅ 위의 공지사항 링크에 접속 후 "초대 요청" 댓글을 작성해주세요.
+    ✅ 위의 '가입 신청' 링크에 접속 후 "초대 요청" 댓글을 작성해주세요.
     ✅ 기수와 전공 상관없이 제로베이스 수강생이라면 누구나 가입이 가능합니다.
     ✅ Github Organization 소속 뱃지를 통해 제로베이스 수강생 간의 유대감과 소속감을 보여줄 수 있습니다.
 
