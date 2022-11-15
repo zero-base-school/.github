@@ -1,4 +1,4 @@
-# Zero-base school
+# zero-base/ school
 
 > ## 소개 
 
